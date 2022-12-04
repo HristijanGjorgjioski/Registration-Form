@@ -94,6 +94,11 @@ body {
     cursor: pointer;
 }
 
+.errorMessage {
+    color: red;
+    font-weight: 500;
+}
+
 .button {
     height: 45px;
     margin: 35px 0;
